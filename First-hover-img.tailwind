@@ -1,0 +1,35 @@
+<div class="mx-auto max-w-[1320px]">
+<h1 class="py-5 text-center text-4xl">Featurd Products</h1>
+</div>
+
+<div class="mx-auto grid max-w-[1320px] gap-6 px-[20px] md:grid-cols-2 lg:grid-cols-4">
+<div class="overflow-hidden rounded-lg text-center shadow-lg">
+<div class="overflow-hidden">
+<img src="https://picsum.photos/seed/picsum/800" alt="" class="duration-[200ms] hover:scale-125" />
+</div>
+<h3 class="py-2 text-xl">Maurya Delicate necklace</h3>
+<p class="py-2">Rs 8000 /</p>
+</div>
+<div class="overflow-hidden rounded-lg text-center shadow-lg">
+<div class="overflow-hidden">
+<img src="https://picsum.photos/seed/picsum/800" alt="" class="duration-[200ms] hover:scale-125" />
+</div>
+<h3 class="py-2 text-xl">Maurya Delicate necklace</h3>
+<p class="py-2">Rs 8000 /</p>
+</div>
+<div class="overflow-hidden rounded-lg text-center shadow-lg">
+<div class="overflow-hidden">
+<img src="https://picsum.photos/seed/picsum/800" alt="" class="duration-[200ms] hover:scale-125" />
+</div>
+<h3 class="py-2 text-xl">Maurya Delicate necklace</h3>
+<p class="py-2">Rs 8000 /</p>
+</div>
+<div class="overflow-hidden rounded-lg text-center shadow-lg">
+<div class="overflow-hidden">
+<img src="https://picsum.photos/seed/picsum/800" alt="" class="duration-[200ms] hover:scale-125" />
+</div>
+<h3 class="py-2 text-xl">Maurya Delicate necklace</h3>
+<p class="py-2">Rs 8000 /</p>
+</div>
+</div>
+
